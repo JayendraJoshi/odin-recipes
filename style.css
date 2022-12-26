@@ -1,0 +1,25 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 80px;
+}
+h2{
+    text-align: center;
+}
+
+.bh{
+    text-align: left;
+    font-size:30px;
+
+}
+body{
+    background-color:rgb(211, 158, 79);
+}
+img{
+    width:300px;
+    height:auto;
+}
